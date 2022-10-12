@@ -181,6 +181,11 @@ header input:hover {
     margin:0 auto;
 }
 
+.container-title .descr{
+  text-align: center;
+  margin: auto;
+  margin-top:1.5rem;
+}
 .descr{
     text-align: left;
     width:45vw;
@@ -428,7 +433,7 @@ footer input:hover {
         text-align: auto;
         line-height: 2.9rem;
         width:95vw;
-        outline:3px solid green;
+      
        margin:0;
     }
 
